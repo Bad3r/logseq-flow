@@ -633,7 +633,7 @@ blockquote:before {
 a[priority]:not(a[priority=""])::before, a.priority::before {
     font-size: 16px;
     font-family: 'tabler-icons';
-    vertical-align: bottom;;
+    vertical-align: bottom;
   }
   a[priority]:not(a[priority=""]), a.priority {
     font-size: 0px;
